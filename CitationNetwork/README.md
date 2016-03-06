@@ -27,7 +27,7 @@ The nodes represent papers submitted in the corresponding month. And the directe
 
 ----------------------------------------------------------------------------------------------------------------------
 
-3. Citations:
+C. Citations:
 
 (1)J. Leskovec, J. Kleinberg and C. Faloutsos. Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations. 
 	ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2005.
