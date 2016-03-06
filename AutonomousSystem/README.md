@@ -33,4 +33,4 @@ C. Citation:
 
 (1) J. Leskovec, J. Kleinberg and C. Faloutsos. Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations. 
     ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2005.
-(2) http://snap.stanford.edu/data/as.html
+
